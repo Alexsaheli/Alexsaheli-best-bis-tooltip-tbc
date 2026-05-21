@@ -39,18 +39,14 @@ def extract_bbcode(html_text):
             raw = tag_match.group(1).strip()
             try:
                 decoded = json.loads(raw)
-                print(f"      [DEBUG] json.loads type={type(decoded).__name__}, preview={repr(decoded)[:120]}")
                 if isinstance(decoded, str):
                     return decoded
-                else:
-                    # dict или list — не BBCode строка, пробуем как есть
-                    return str(decoded)
+                # Не строка — значит данные не в этом теге, идём дальше
+                return None
             except Exception:
                 if raw.startswith('"') and raw.endswith('"'):
                     raw = raw[1:-1]
-                decoded = raw.replace('\\"', '"').replace('\\n', '\n').replace('\\r', '').replace('\\\\', '\\')
-                print(f"      [DEBUG] raw decode, preview={repr(decoded)[:120]}")
-                return decoded
+                return raw.replace('\\"', '"').replace('\\n', '\n').replace('\\r', '').replace('\\\\', '\\')
         # guid найден но тег не найден — не пробуем формат 2, это не inline страница
         return None
 
@@ -591,15 +587,13 @@ def parse_page(url, spec_key, phase):
 
         bbcode = extract_bbcode(html)
         if bbcode:
-            print(f"    [формат: BBCode]")
-            if isinstance(bbcode, str):
-                tags = set(re.findall(r'\[(/?\w+)', bbcode))
-                idx = bbcode.find('[item=')
-                snippet = bbcode[max(0,idx-200):idx+50] if idx >= 0 else ''
-                print(f"    [DEBUG tags={sorted(tags)} snippet_before_item={repr(snippet)}]")
             items = parse_bbcode(bbcode, spec_key=spec_key)
-            if spec_key == 'arcane_mage':
-                import sys; sys.exit(0)
+            if items:
+                print(f"    [формат: BBCode]")
+            else:
+                # BBCode найден но таблиц нет — парсим HTML
+                print(f"    [формат: HTML таблицы]")
+                items = parse_html_tables(html, spec_short)
         else:
             print(f"    [формат: HTML таблицы]")
             items = parse_html_tables(html, spec_short)
