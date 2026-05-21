@@ -1,0 +1,8 @@
+## Interface: 20504
+## Title: |cFF3FC7EBBest BiS Tooltip TBC (v2.5)|r
+## Notes: Highlights BiS items in The Burning Crusade.
+## Author: Alex Kos
+## Version: 2.5
+
+bisdata.lua
+main.lua
