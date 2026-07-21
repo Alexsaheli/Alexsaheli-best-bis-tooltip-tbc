@@ -8,7 +8,7 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
     },
     [12930] = {
@@ -22,10 +22,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [16463] = {
         ["beastmastery_hunter"] = {
@@ -78,14 +77,13 @@ BestBisListData = {
     },
     [18820] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [18823] = {
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -174,8 +172,9 @@ BestBisListData = {
     },
     [19343] = {
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [19375] = {
@@ -244,9 +243,8 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["shadow_priest"] = {
             ["pre"] = "Sub-BiS Further Options",
             ["p1"] = "Sub-BiS Further Options",
@@ -298,7 +296,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["retribution_paladin"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -311,10 +309,9 @@ BestBisListData = {
     },
     [19431] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [19434] = {
         ["shadow_priest"] = {
@@ -324,10 +321,9 @@ BestBisListData = {
     },
     [19950] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [20966] = {
         ["shadow_priest"] = {
@@ -357,10 +353,10 @@ BestBisListData = {
     },
     [21581] = {
         ["arms_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
         },
     },
     [21582] = {
@@ -490,8 +486,8 @@ BestBisListData = {
     [21670] = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -504,8 +500,11 @@ BestBisListData = {
         },
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -527,7 +526,7 @@ BestBisListData = {
         ["affliction_warlock"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["arcane_mage"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -537,7 +536,7 @@ BestBisListData = {
         },
         ["demonology_warlock"] = {
             ["pre"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["destruction_warlock"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -557,7 +556,7 @@ BestBisListData = {
         ["shadow_priest"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
     },
     [21712] = {
@@ -678,7 +677,7 @@ BestBisListData = {
         },
         ["demonology_warlock"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Close to BiS",
         },
         ["destruction_warlock"] = {
@@ -1224,10 +1223,10 @@ BestBisListData = {
     },
     [22936] = {
         ["arms_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
         },
     },
     [22939] = {
@@ -1266,7 +1265,7 @@ BestBisListData = {
     },
     [22961] = {
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
     },
     [22983] = {
@@ -1385,6 +1384,9 @@ BestBisListData = {
         ["fury_warrior"] = {
             ["pre"] = "Close to BiS",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
+        },
         ["survival_hunter"] = {
             ["pre"] = "Sub-BiS Further Options",
             ["p1"] = "Sub-BiS Further Options",
@@ -1405,14 +1407,13 @@ BestBisListData = {
     },
     [23040] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [23041] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
         },
         ["combat_rogue"] = {
@@ -1430,7 +1431,7 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
@@ -1446,10 +1447,10 @@ BestBisListData = {
     },
     [23045] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Sub-BiS (Optional)",
         },
     },
     [23046] = {
@@ -1479,10 +1480,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["shadow_priest"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS Further Options",
@@ -1656,8 +1656,8 @@ BestBisListData = {
     },
     [23198] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -1681,31 +1681,31 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["feral_druid"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Threat Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Threat Alternative",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options - Against Undead and Demons",
         },
     },
     [23207] = {
         ["affliction_warlock"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS - Against Demons and Undead",
         },
         ["arcane_mage"] = {
             ["pre"] = "Close to BiS",
@@ -1715,17 +1715,17 @@ BestBisListData = {
         ["demonology_warlock"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS - Against Demons and Undead",
         },
         ["destruction_warlock"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS - Against Demons and Undead",
         },
         ["elemental_shaman"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS - Against Demons and Undead",
         },
         ["fire_mage"] = {
             ["pre"] = "Close to BiS",
@@ -1738,22 +1738,21 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["shadow_priest"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Absolute BiS - Against Demons and Undead",
         },
     },
     [23219] = {
         ["arms_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
         },
     },
     [23220] = {
@@ -1789,14 +1788,14 @@ BestBisListData = {
     [23507] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [23517] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -1805,29 +1804,29 @@ BestBisListData = {
     [23518] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
     },
     [23519] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Crafted Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Crafted Alternative",
         },
     },
     [23520] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -1835,15 +1834,15 @@ BestBisListData = {
     },
     [23522] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
     },
@@ -1858,42 +1857,42 @@ BestBisListData = {
     [23532] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [23535] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [23536] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [23537] = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [23538] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Avoidance",
+            ["p1"] = "Close to BiS - Survivability",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [23539] = {
@@ -1910,10 +1909,10 @@ BestBisListData = {
     },
     [23542] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Off Hand",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Off Hand",
         },
     },
     [23554] = {
@@ -1983,10 +1982,10 @@ BestBisListData = {
     },
     [23773] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [23828] = {
@@ -2001,15 +2000,13 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",        },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Absolute BiS - Mitigation",
+            ["p1"] = "Absolute BiS - Mitigation",
+            ["p2"] = "Absolute BiS",        },
     },
     [23836] = {
         ["feral_tank_druid"] = {
@@ -2018,15 +2015,13 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Absolute BiS - Threat",
+            ["p1"] = "Absolute BiS - Threat",
+            ["p2"] = "Sub-BiS (Optional)",        },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Absolute BiS - Mitigation",
+            ["p1"] = "Absolute BiS - Mitigation",
+            ["p2"] = "Absolute BiS",        },
     },
     [24076] = {
         ["holy_paladin"] = {
@@ -2054,10 +2049,9 @@ BestBisListData = {
     },
     [24088] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [24114] = {
         ["combat_rogue"] = {
@@ -2131,7 +2125,7 @@ BestBisListData = {
         },
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["shadow_priest"] = {
@@ -2142,17 +2136,15 @@ BestBisListData = {
     },
     [24125] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [24126] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [24151] = {
         ["feral_tank_druid"] = {
@@ -2240,7 +2232,7 @@ BestBisListData = {
     [24253] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
@@ -2284,7 +2276,7 @@ BestBisListData = {
         },
         ["demonology_warlock"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["destruction_warlock"] = {
@@ -2314,7 +2306,7 @@ BestBisListData = {
     },
     [24258] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -2322,8 +2314,8 @@ BestBisListData = {
     [24259] = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Absolute BiS",
@@ -2331,28 +2323,31 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
-        },
-        ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS Further Options",
-        },
-        ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
             ["p2"] = "Absolute BiS",
         },
+        ["feral_druid"] = {
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS Further Options",
+        },
+        ["fury_warrior"] = {
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
@@ -2400,7 +2395,7 @@ BestBisListData = {
         },
         ["demonology_warlock"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Absolute BiS (Realistic)",
             ["p2"] = "Close to BiS",
         },
         ["destruction_warlock"] = {
@@ -2495,8 +2490,8 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [24390] = {
@@ -2650,7 +2645,7 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS - Blacksmith",
             ["p1"] = "Sub-BiS Further Options",
         },
     },
@@ -2925,10 +2920,10 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
         ["feral_druid"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -2949,7 +2944,7 @@ BestBisListData = {
     [25686] = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Absolute BiS",
@@ -2957,26 +2952,26 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
@@ -2987,7 +2982,7 @@ BestBisListData = {
     },
     [25687] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
         ["combat_rogue"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -3000,23 +2995,23 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
     },
     [25689] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
     },
     [25690] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
     },
     [25691] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
     },
@@ -3043,7 +3038,7 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -3081,8 +3076,8 @@ BestBisListData = {
     },
     [25788] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Avoidance",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [25789] = {
@@ -3143,9 +3138,9 @@ BestBisListData = {
     },
     [25803] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [25806] = {
@@ -3184,15 +3179,15 @@ BestBisListData = {
     },
     [25809] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [25819] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -3243,7 +3238,7 @@ BestBisListData = {
     },
     [25997] = {
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
         },
     },
     [26055] = {
@@ -3254,7 +3249,7 @@ BestBisListData = {
     },
     [27408] = {
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Threat Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [27409] = {
@@ -3325,7 +3320,7 @@ BestBisListData = {
     },
     [27434] = {
         ["arms_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -3341,10 +3336,10 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -3360,8 +3355,8 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [27448] = {
@@ -3377,9 +3372,9 @@ BestBisListData = {
     },
     [27449] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27451] = {
@@ -3416,8 +3411,8 @@ BestBisListData = {
     },
     [27459] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -3504,11 +3499,14 @@ BestBisListData = {
         ["beastmastery_hunter"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Close to BiS",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -3535,9 +3533,9 @@ BestBisListData = {
     },
     [27484] = {
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
     },
     [27489] = {
@@ -3547,10 +3545,10 @@ BestBisListData = {
     },
     [27490] = {
         ["arms_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Orc Off-Hand",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Orc Off-Hand",
         },
     },
     [27492] = {
@@ -3638,7 +3636,7 @@ BestBisListData = {
     [27520] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [27525] = {
@@ -3660,8 +3658,8 @@ BestBisListData = {
     },
     [27527] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Close to BiS",
@@ -3669,10 +3667,9 @@ BestBisListData = {
     },
     [27529] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Absolute BiS - Uncrushability",
+            ["p1"] = "Absolute BiS - Uncrushability",
+            ["p2"] = "Absolute BiS",        },
     },
     [27531] = {
         ["combat_rogue"] = {
@@ -3700,9 +3697,9 @@ BestBisListData = {
     },
     [27535] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27536] = {
@@ -3824,7 +3821,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
     },
     [27548] = {
@@ -3850,11 +3847,11 @@ BestBisListData = {
     [27672] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Mitigation",
         },
     },
     [27683] = {
@@ -3874,8 +3871,8 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["demonology_warlock"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Close to BiS",
         },
         ["destruction_warlock"] = {
@@ -3906,34 +3903,34 @@ BestBisListData = {
     },
     [27702] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27703] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27704] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27705] = {
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [27706] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -3976,8 +3973,8 @@ BestBisListData = {
     },
     [27739] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Balanced",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -4074,7 +4071,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS Further Options",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -4106,15 +4103,13 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [27771] = {
         ["retribution_paladin"] = {
@@ -4151,7 +4146,7 @@ BestBisListData = {
     },
     [27776] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -4240,8 +4235,8 @@ BestBisListData = {
     },
     [27792] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -4301,23 +4296,23 @@ BestBisListData = {
     },
     [27797] = {
         ["arms_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -4326,7 +4321,7 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -4341,12 +4336,15 @@ BestBisListData = {
         ["beastmastery_hunter"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Close to BiS",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [27803] = {
@@ -4354,14 +4352,14 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Mitigation Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [27804] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Close to BiS - Mitigation",
         },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
@@ -4379,13 +4377,13 @@ BestBisListData = {
     [27813] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27815] = {
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
     },
     [27817] = {
@@ -4425,12 +4423,11 @@ BestBisListData = {
     [27822] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Threat Alternative",
-            ["p1"] = "Sub-BiS Threat Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Threat Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [27825] = {
@@ -4473,7 +4470,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
@@ -4482,7 +4479,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS Further Options",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -4494,9 +4491,9 @@ BestBisListData = {
     },
     [27839] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27842] = {
@@ -4541,25 +4538,28 @@ BestBisListData = {
         ["beastmastery_hunter"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional) - Main Hand",
         },
         ["enhancement_shaman"] = {
             ["pre"] = "Sub-BiS Further Options",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27847] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Avoidance",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Mitigation Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [27848] = {
@@ -4581,7 +4581,7 @@ BestBisListData = {
     },
     [27867] = {
         ["arms_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["enhancement_shaman"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -4589,7 +4589,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
     },
     [27868] = {
@@ -4617,14 +4617,14 @@ BestBisListData = {
     },
     [27871] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Avoidance",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27872] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Orc Off-Hand",
         },
         ["enhancement_shaman"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -4632,12 +4632,12 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Orc Off-Hand",
         },
     },
     [27874] = {
         ["beastmastery_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -4694,7 +4694,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Threat Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Threat Alternative",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -4737,9 +4737,9 @@ BestBisListData = {
     },
     [27887] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
@@ -4771,17 +4771,16 @@ BestBisListData = {
     },
     [27891] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Absolute BiS - Mitigation",
+            ["p1"] = "Absolute BiS - Mitigation",
+            ["p2"] = "Third Place",        },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
     },
     [27892] = {
         ["arms_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -4794,10 +4793,10 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -4812,18 +4811,18 @@ BestBisListData = {
     [27899] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27903] = {
         ["beastmastery_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -4854,8 +4853,8 @@ BestBisListData = {
         },
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27907] = {
@@ -4898,9 +4897,9 @@ BestBisListData = {
     },
     [27917] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [27918] = {
@@ -4939,8 +4938,11 @@ BestBisListData = {
         ["feral_tank_druid"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
+        },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -5026,28 +5028,28 @@ BestBisListData = {
     [27985] = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
     },
     [27988] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Mitigation Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [27994] = {
@@ -5114,7 +5116,7 @@ BestBisListData = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -5130,7 +5132,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -5141,7 +5143,10 @@ BestBisListData = {
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -5149,7 +5154,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -5176,6 +5181,9 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
             ["p2"] = "Sub-BiS Further Options",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
+        },
         ["survival_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
@@ -5184,10 +5192,9 @@ BestBisListData = {
     },
     [28042] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
@@ -5223,8 +5230,8 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -5247,14 +5254,13 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
             ["pre"] = "Close to BiS (Best Threat)",
             ["p1"] = "Close to BiS (Best Threat)",
-            ["p2"] = "Close to BiS (Best Threat)",
-        },
+            ["p2"] = "Sub-BiS (Optional)",        },
     },
     [28127] = {
         ["feral_tank_druid"] = {
@@ -5342,9 +5348,9 @@ BestBisListData = {
     },
     [28167] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -5352,7 +5358,7 @@ BestBisListData = {
     },
     [28168] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
     },
     [28169] = {
@@ -5452,7 +5458,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
         },
     },
@@ -5502,7 +5508,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
     },
     [28182] = {
@@ -5518,13 +5524,13 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -5590,18 +5596,18 @@ BestBisListData = {
     },
     [28189] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Human Off-Hand",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Human Off-Hand",
+            ["p1"] = "Close to BiS",
         },
         ["protection_warrior"] = {
             ["pre"] = "Close to BiS (Fast Alternative)",
@@ -5700,16 +5706,16 @@ BestBisListData = {
     [28203] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [28204] = {
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
     },
     [28205] = {
@@ -5719,18 +5725,17 @@ BestBisListData = {
     },
     [28210] = {
         ["arms_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Human Off-Hand",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Human Off-Hand",
         },
     },
     [28211] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [28212] = {
         ["arcane_mage"] = {
@@ -5808,11 +5813,11 @@ BestBisListData = {
     },
     [28224] = {
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -5869,12 +5874,15 @@ BestBisListData = {
         ["beastmastery_hunter"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Close to BiS",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [28229] = {
@@ -5951,7 +5959,7 @@ BestBisListData = {
         },
         ["protection_warrior"] = {
             ["pre"] = "Close to BiS (Best Threat)",
-            ["p1"] = "Sub-BiS Threat Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [28245] = {
@@ -5960,8 +5968,8 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Absolute BiS - Balanced",
+            ["p1"] = "Close to BiS - Threat",
         },
         ["shadow_priest"] = {
             ["pre"] = "Absolute BiS",
@@ -6011,12 +6019,12 @@ BestBisListData = {
     },
     [28256] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Mitigation Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [28257] = {
@@ -6075,9 +6083,9 @@ BestBisListData = {
     },
     [28262] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Avoidance",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [28263] = {
@@ -6087,14 +6095,14 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [28264] = {
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
@@ -6104,17 +6112,16 @@ BestBisListData = {
     },
     [28265] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Absolute BiS - Block",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [28267] = {
         ["arms_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Human Off-Hand",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Human Off-Hand",
         },
     },
     [28268] = {
@@ -6133,12 +6140,15 @@ BestBisListData = {
         ["beastmastery_hunter"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Close to BiS",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [28278] = {
@@ -6178,20 +6188,20 @@ BestBisListData = {
     [28285] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [28288] = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["beastmastery_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["combat_rogue"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -6199,7 +6209,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -6213,22 +6223,25 @@ BestBisListData = {
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Third Place",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["survival_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
     },
     [28295] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Close to BiS",
         },
         ["combat_rogue"] = {
@@ -6236,7 +6249,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["protection_warrior"] = {
             ["p1"] = "Close to BiS (Slow Alternative)",
@@ -6297,8 +6310,8 @@ BestBisListData = {
     },
     [28308] = {
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
@@ -6314,13 +6327,13 @@ BestBisListData = {
     },
     [28313] = {
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
         },
     },
     [28315] = {
         ["beastmastery_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -6332,9 +6345,9 @@ BestBisListData = {
     },
     [28316] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Close to BiS",
@@ -6357,8 +6370,8 @@ BestBisListData = {
     },
     [28321] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -6394,7 +6407,7 @@ BestBisListData = {
     },
     [28339] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
     },
@@ -6446,8 +6459,8 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -6466,14 +6479,14 @@ BestBisListData = {
     },
     [28350] = {
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Mitigation Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [28358] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["p1"] = "Close to BiS",
@@ -6515,7 +6528,7 @@ BestBisListData = {
     },
     [28378] = {
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [28386] = {
@@ -6571,7 +6584,7 @@ BestBisListData = {
     [28390] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [28392] = {
@@ -6620,7 +6633,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
     },
@@ -6667,10 +6680,9 @@ BestBisListData = {
     },
     [28407] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Absolute BiS - Mitigation",
+            ["p1"] = "Absolute BiS - Defensive",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [28410] = {
         ["arcane_mage"] = {
@@ -6834,14 +6846,14 @@ BestBisListData = {
     },
     [28422] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [28423] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [28424] = {
@@ -6859,16 +6871,16 @@ BestBisListData = {
             ["p1"] = "Absolute BiS",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS - Blacksmith",
+            ["p1"] = "Absolute BiS - Blacksmith",
         },
     },
     [28430] = {
         ["arms_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [28432] = {
@@ -6888,23 +6900,29 @@ BestBisListData = {
             ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [28436] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
     },
     [28438] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Absolute BiS - Main Hand",
             ["p1"] = "Absolute BiS",
         },
         ["combat_rogue"] = {
@@ -6918,9 +6936,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Absolute BiS - Main Hand",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
@@ -6962,11 +6980,11 @@ BestBisListData = {
     },
     [28476] = {
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -6983,24 +7001,24 @@ BestBisListData = {
     },
     [28484] = {
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [28485] = {
         ["arms_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [28502] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Close to BiS - Block",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS - Mitigation",
         },
     },
     [28503] = {
@@ -7043,9 +7061,12 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
-        ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["survival_hunter"] = {
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
     },
     [28507] = {
@@ -7110,7 +7131,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
@@ -7118,14 +7139,14 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["p1"] = "Close to BiS (Best Threat)",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
@@ -7165,7 +7186,7 @@ BestBisListData = {
             ["p1"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
@@ -7208,11 +7229,11 @@ BestBisListData = {
     },
     [28516] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Absolute BiS - Defensive",
+            ["p2"] = "Close to BiS - Defensive",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Mitigation Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [28517] = {
@@ -7254,11 +7275,11 @@ BestBisListData = {
     },
     [28518] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Close to BiS - Defensive",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS - Mitigation",
         },
     },
     [28520] = {
@@ -7330,13 +7351,12 @@ BestBisListData = {
     },
     [28528] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["p1"] = "Close to BiS - Avoidance",
+            ["p2"] = "Close to BiS",        },
     },
     [28529] = {
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
         ["retribution_paladin"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -7349,7 +7369,7 @@ BestBisListData = {
         },
         ["arcane_mage"] = {
             ["p1"] = "BiS if you need Hit",
-            ["p2"] = "Sub-BiS Further Options",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["balance_druid"] = {
             ["p1"] = "Absolute BiS",
@@ -7376,13 +7396,13 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS - Threat",
+            ["p2"] = "Close to BiS - Threat",
         },
     },
     [28545] = {
         ["arms_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
         ["beastmastery_hunter"] = {
             ["p1"] = "Absolute BiS",
@@ -7393,7 +7413,7 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
@@ -7401,18 +7421,21 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -7421,7 +7444,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Threat Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [28555] = {
@@ -7448,10 +7471,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Close to BiS - Balanced",
+            ["p1"] = "Close to BiS - Hit",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["shadow_priest"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
@@ -7459,11 +7481,11 @@ BestBisListData = {
     },
     [28566] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Close to BiS - Survivability",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS - Mitigation",
         },
     },
     [28567] = {
@@ -7498,7 +7520,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["shadow_priest"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -7511,7 +7533,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
@@ -7534,12 +7556,11 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["protection_warrior"] = {
             ["p1"] = "Close to BiS (Best Threat)",
-            ["p2"] = "Close to BiS (Best Threat)",
-        },
+            ["p2"] = "Sub-BiS (Optional)",        },
     },
     [28581] = {
         ["beastmastery_hunter"] = {
@@ -7624,8 +7645,11 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -7642,7 +7666,7 @@ BestBisListData = {
         },
         ["holy_priest"] = {
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["restoration_druid"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -7650,7 +7674,7 @@ BestBisListData = {
         },
         ["restoration_shaman"] = {
             ["p1"] = "Close to BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
     },
     [28591] = {
@@ -7674,11 +7698,11 @@ BestBisListData = {
     },
     [28593] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Mitigation Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [28594] = {
@@ -7705,11 +7729,11 @@ BestBisListData = {
     },
     [28597] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Close to BiS - Defensive",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Mitigation Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [28600] = {
@@ -7789,8 +7813,8 @@ BestBisListData = {
     },
     [28606] = {
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["p1"] = "Close to BiS",
@@ -7811,7 +7835,7 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -7846,12 +7870,12 @@ BestBisListData = {
     },
     [28621] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS - Defensive",
+            ["p2"] = "Close to BiS - Avoidance + Health",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS Mitigation Alternative",
+            ["p1"] = "Absolute BiS - Mitigation",
+            ["p2"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [28631] = {
@@ -7892,14 +7916,14 @@ BestBisListData = {
             ["pre"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [28642] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [28643] = {
@@ -7907,8 +7931,8 @@ BestBisListData = {
             ["pre"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [28645] = {
@@ -7918,7 +7942,7 @@ BestBisListData = {
     },
     [28646] = {
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -7945,19 +7969,22 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_tank_druid"] = {
             ["p1"] = "Sub-BiS Further Options",
             ["p2"] = "Sub-BiS Further Options",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
+        },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Threat Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Threat Alternative",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -8028,25 +8055,25 @@ BestBisListData = {
     },
     [28658] = {
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [28660] = {
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
-        },
-        ["protection_paladin"] = {
             ["p1"] = "Absolute BiS",
             ["p2"] = "Absolute BiS",
         },
+        ["protection_paladin"] = {
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["protection_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS - Mitigation",
         },
     },
     [28661] = {
@@ -8098,7 +8125,7 @@ BestBisListData = {
     },
     [28672] = {
         ["arms_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
         ["beastmastery_hunter"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -8113,25 +8140,25 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
         ["protection_warrior"] = {
             ["p1"] = "Close to BiS (Best Threat)",
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["p2"] = "BiS if you need Hit",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -8174,8 +8201,11 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Threat Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Threat Alternative",
         },
         ["survival_hunter"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -8187,16 +8217,15 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Mitigation Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [28699] = {
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
     },
     [28703] = {
@@ -8232,14 +8261,14 @@ BestBisListData = {
     },
     [28729] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Close to BiS",
         },
         ["combat_rogue"] = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["protection_warrior"] = {
             ["p1"] = "Close to BiS (Slow Alternative)",
@@ -8247,12 +8276,12 @@ BestBisListData = {
     },
     [28730] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -8336,7 +8365,7 @@ BestBisListData = {
     },
     [28741] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["beastmastery_hunter"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -8347,25 +8376,25 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -8387,11 +8416,11 @@ BestBisListData = {
     },
     [28743] = {
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Mitigation Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [28744] = {
@@ -8410,7 +8439,7 @@ BestBisListData = {
     },
     [28745] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["feral_druid"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -8420,10 +8449,10 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -8433,7 +8462,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -8445,11 +8474,11 @@ BestBisListData = {
     },
     [28747] = {
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS - Mitigation",
         },
     },
     [28748] = {
@@ -8459,10 +8488,10 @@ BestBisListData = {
     },
     [28749] = {
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [28750] = {
@@ -8484,7 +8513,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
@@ -8513,7 +8542,7 @@ BestBisListData = {
     [28753] = {
         ["affliction_warlock"] = {
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["arcane_mage"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -8524,12 +8553,12 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["demonology_warlock"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "BiS if you need Hit",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["destruction_warlock"] = {
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["elemental_shaman"] = {
             ["p1"] = "Close to BiS",
@@ -8559,7 +8588,7 @@ BestBisListData = {
     },
     [28755] = {
         ["arms_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
         ["combat_rogue"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -8577,7 +8606,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -8594,8 +8623,8 @@ BestBisListData = {
     },
     [28757] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["beastmastery_hunter"] = {
             ["p1"] = "Close to BiS",
@@ -8606,8 +8635,8 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["feral_druid"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -8617,11 +8646,14 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Third Place",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
@@ -8636,7 +8668,7 @@ BestBisListData = {
         },
         ["arcane_mage"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS Further Options",
+            ["p2"] = "Close to BiS",
         },
         ["balance_druid"] = {
             ["p1"] = "Close to BiS",
@@ -8666,7 +8698,7 @@ BestBisListData = {
     [28763] = {
         ["holy_paladin"] = {
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["holy_priest"] = {
             ["p1"] = "Close to BiS",
@@ -8733,8 +8765,8 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS - Threat",
+            ["p2"] = "Close to BiS - Threat",
         },
         ["shadow_priest"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -8742,7 +8774,7 @@ BestBisListData = {
     },
     [28767] = {
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
@@ -8760,15 +8792,15 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["arcane_mage"] = {
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Absolute BiS (Realistic)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["balance_druid"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS (Realistic)",
             ["p2"] = "Close to BiS",
         },
         ["demonology_warlock"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS (Realistic)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["destruction_warlock"] = {
@@ -8794,7 +8826,7 @@ BestBisListData = {
     },
     [28771] = {
         ["holy_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["holy_priest"] = {
@@ -8812,8 +8844,8 @@ BestBisListData = {
     },
     [28772] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
         },
         ["beastmastery_hunter"] = {
             ["p1"] = "Absolute BiS",
@@ -8824,11 +8856,14 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -8851,7 +8886,7 @@ BestBisListData = {
     },
     [28776] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -8861,7 +8896,7 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
@@ -8880,10 +8915,13 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p1"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -8903,7 +8941,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Threat Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Threat Alternative",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -9003,7 +9041,7 @@ BestBisListData = {
     [28785] = {
         ["arcane_mage"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["elemental_shaman"] = {
             ["p1"] = "Absolute BiS",
@@ -9025,18 +9063,17 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",        },
         ["shadow_priest"] = {
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
     },
     [28790] = {
         ["holy_paladin"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["holy_priest"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -9047,43 +9084,44 @@ BestBisListData = {
         },
         ["restoration_shaman"] = {
             ["p1"] = "Close to BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
     },
     [28791] = {
         ["beastmastery_hunter"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS - 6% Hit Gear (Boomkin in the Raid)",
         },
         ["combat_rogue"] = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS - 6% Hit Gear (Boomkin in the Raid)",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
     },
     [28792] = {
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
-        },
-        ["protection_paladin"] = {
             ["p1"] = "Close to BiS",
             ["p2"] = "Close to BiS",
         },
+        ["protection_paladin"] = {
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Mitigation Alternative",
-            ["p2"] = "Sub-BiS Mitigation Alternative",
-        },
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [28793] = {
         ["affliction_warlock"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["arcane_mage"] = {
             ["p1"] = "Absolute BiS",
@@ -9091,15 +9129,15 @@ BestBisListData = {
         },
         ["balance_druid"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["demonology_warlock"] = {
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["destruction_warlock"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["fire_mage"] = {
             ["p1"] = "Absolute BiS",
@@ -9107,12 +9145,11 @@ BestBisListData = {
         },
         ["frost_mage"] = {
             ["p1"] = "Close to BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["p1"] = "Close to BiS - Threat",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["shadow_priest"] = {
             ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
@@ -9121,18 +9158,18 @@ BestBisListData = {
     [28795] = {
         ["arms_warrior"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p1"] = "Absolute BiS",
             ["p2"] = "Close to BiS",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Threat Alternative",
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Threat Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "BiS if you need Hit",
         },
     },
@@ -9141,7 +9178,7 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
         },
     },
     [28797] = {
@@ -9178,7 +9215,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["shadow_priest"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -9232,11 +9269,11 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["arcane_mage"] = {
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Absolute BiS (Realistic)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["demonology_warlock"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS (Realistic)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["destruction_warlock"] = {
@@ -9252,7 +9289,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Close to BiS",
         },
     },
@@ -9348,6 +9385,9 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["survival_hunter"] = {
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
@@ -9365,17 +9405,20 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p1"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -9393,40 +9436,43 @@ BestBisListData = {
         },
         ["beastmastery_hunter"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["combat_rogue"] = {
             ["p1"] = "Absolute BiS",
             ["p2"] = "Absolute BiS",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["fury_warrior"] = {
             ["p1"] = "Absolute BiS",
             ["p2"] = "Absolute BiS",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
+        },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
     },
     [28851] = {
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
     },
     [28855] = {
@@ -9459,13 +9505,13 @@ BestBisListData = {
     },
     [28920] = {
         ["arms_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Orc Off-Hand",
         },
         ["enhancement_shaman"] = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Orc Off-Hand",
         },
     },
     [28931] = {
@@ -9506,10 +9552,10 @@ BestBisListData = {
     },
     [28956] = {
         ["arms_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Human Off-Hand",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Human Off-Hand",
         },
     },
     [28963] = {
@@ -9518,7 +9564,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["demonology_warlock"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["destruction_warlock"] = {
@@ -9532,7 +9578,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["demonology_warlock"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["destruction_warlock"] = {
@@ -9574,8 +9620,8 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["demonology_warlock"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS - Tier Set Bonus",
+            ["p2"] = "Close to BiS - Two-Piece Set Bonus",
         },
         ["destruction_warlock"] = {
             ["p1"] = "Absolute BiS - Shadow Destro",
@@ -9584,27 +9630,27 @@ BestBisListData = {
     },
     [28978] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [28986] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [28987] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [28988] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
@@ -9631,7 +9677,7 @@ BestBisListData = {
         },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Sub-BiS Threat Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [28997] = {
@@ -9643,12 +9689,12 @@ BestBisListData = {
         },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [28999] = {
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
         },
     },
@@ -9669,32 +9715,32 @@ BestBisListData = {
     },
     [29015] = {
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Mitigation Alternative",
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [29016] = {
         ["protection_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS - Mitigation",
         },
     },
     [29017] = {
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Mitigation Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [29019] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29020] = {
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
     },
     [29021] = {
@@ -9707,7 +9753,7 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Threat Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [29022] = {
@@ -9720,10 +9766,10 @@ BestBisListData = {
     },
     [29023] = {
         ["arms_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
         ["protection_warrior"] = {
             ["p1"] = "Absolute BiS",
@@ -9791,7 +9837,7 @@ BestBisListData = {
     },
     [29038] = {
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -9802,7 +9848,7 @@ BestBisListData = {
     },
     [29040] = {
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -9923,19 +9969,19 @@ BestBisListData = {
     [29067] = {
         ["protection_paladin"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29068] = {
         ["protection_paladin"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29069] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Close to BiS - Balanced",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29070] = {
@@ -9946,7 +9992,7 @@ BestBisListData = {
     },
     [29071] = {
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
@@ -9957,7 +10003,7 @@ BestBisListData = {
     },
     [29073] = {
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -9968,7 +10014,7 @@ BestBisListData = {
     },
     [29075] = {
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -10001,7 +10047,7 @@ BestBisListData = {
     },
     [29078] = {
         ["arcane_mage"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fire_mage"] = {
@@ -10044,6 +10090,9 @@ BestBisListData = {
     [29081] = {
         ["beastmastery_hunter"] = {
             ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
@@ -10107,39 +10156,39 @@ BestBisListData = {
     },
     [29096] = {
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29097] = {
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29098] = {
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29099] = {
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29100] = {
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -10162,8 +10211,8 @@ BestBisListData = {
     },
     [29119] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -10173,13 +10222,13 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS Further Options",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29121] = {
@@ -10236,10 +10285,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["shadow_priest"] = {
             ["pre"] = "Sub-BiS Further Options",
             ["p1"] = "Sub-BiS Further Options",
@@ -10247,9 +10295,9 @@ BestBisListData = {
     },
     [29127] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Avoidance",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29129] = {
@@ -10288,7 +10336,7 @@ BestBisListData = {
         ["affliction_warlock"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["arcane_mage"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -10302,12 +10350,12 @@ BestBisListData = {
         ["demonology_warlock"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["destruction_warlock"] = {
             ["pre"] = "Sub-BiS (Optional)",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["elemental_shaman"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -10346,9 +10394,9 @@ BestBisListData = {
     },
     [29134] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -10420,7 +10468,7 @@ BestBisListData = {
     },
     [29151] = {
         ["arms_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -10433,7 +10481,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["survival_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -10443,7 +10491,7 @@ BestBisListData = {
     },
     [29152] = {
         ["arms_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -10456,7 +10504,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["survival_hunter"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -10490,9 +10538,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29155] = {
@@ -10521,9 +10569,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29156] = {
@@ -10602,8 +10650,8 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
@@ -10611,7 +10659,7 @@ BestBisListData = {
         ["affliction_warlock"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["arcane_mage"] = {
             ["pre"] = "Close to BiS",
@@ -10624,13 +10672,13 @@ BestBisListData = {
         },
         ["demonology_warlock"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "BiS if you need Hit",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["destruction_warlock"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["elemental_shaman"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -10646,10 +10694,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Close to BiS - Threat",
+            ["p1"] = "Close to BiS - Threat",
+            ["p2"] = "Sub-BiS (Optional)",        },
         ["shadow_priest"] = {
             ["pre"] = "Sub-BiS Further Options",
             ["p1"] = "Sub-BiS Further Options",
@@ -10657,9 +10704,9 @@ BestBisListData = {
     },
     [29173] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Avoidance",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29174] = {
@@ -10696,13 +10743,13 @@ BestBisListData = {
     },
     [29176] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Absolute BiS - Survivability",
             ["p1"] = "Close to BiS",
             ["p2"] = "Close to BiS",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [29177] = {
@@ -10713,7 +10760,7 @@ BestBisListData = {
             ["pre"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
     },
@@ -10747,8 +10794,7 @@ BestBisListData = {
         ["protection_warrior"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [29183] = {
         ["holy_paladin"] = {
@@ -10774,8 +10820,8 @@ BestBisListData = {
     [29184] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
@@ -10798,26 +10844,26 @@ BestBisListData = {
         },
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29238] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Mitigation",
             ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [29239] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Close to BiS",
@@ -10916,8 +10962,8 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -10925,12 +10971,15 @@ BestBisListData = {
         ["fury_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
@@ -10948,29 +10997,29 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -11058,21 +11107,21 @@ BestBisListData = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS - Threat",
         },
     },
     [29253] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29254] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS - Threat",
         },
     },
     [29255] = {
@@ -11100,7 +11149,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
     },
     [29263] = {
@@ -11112,8 +11161,8 @@ BestBisListData = {
     },
     [29264] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -11125,9 +11174,9 @@ BestBisListData = {
     },
     [29266] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
@@ -11267,24 +11316,22 @@ BestBisListData = {
     },
     [29275] = {
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
     [29279] = {
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p1"] = "Close to BiS - Defensive",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["protection_warrior"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS Mitigation Alternative",
-        },
+            ["p1"] = "Absolute BiS - Mitigation",
+            ["p2"] = "Sub-BiS (Optional)",        },
     },
     [29283] = {
         ["combat_rogue"] = {
@@ -11298,9 +11345,8 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Threat Alternative",
-            ["p2"] = "Sub-BiS if you need Hit",
-        },
+            ["p1"] = "Sub-BiS (Optional) - Threat Alternative",
+            ["p2"] = "Close to BiS",        },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS Further Options",
         },
@@ -11316,7 +11362,7 @@ BestBisListData = {
         },
         ["balance_druid"] = {
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["demonology_warlock"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -11339,8 +11385,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
         ["shadow_priest"] = {
             ["p1"] = "Sub-BiS Further Options",
             ["p2"] = "Sub-BiS Further Options",
@@ -11356,7 +11401,7 @@ BestBisListData = {
         },
         ["restoration_druid"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["restoration_shaman"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -11364,8 +11409,7 @@ BestBisListData = {
     },
     [29294] = {
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
-        },
+            ["p2"] = "Third Place",        },
     },
     [29298] = {
         ["beastmastery_hunter"] = {
@@ -11374,8 +11418,11 @@ BestBisListData = {
         ["enhancement_shaman"] = {
             ["p2"] = "Sub-BiS Further Options",
         },
-        ["survival_hunter"] = {
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["survival_hunter"] = {
+            ["p2"] = "Close to BiS",
         },
     },
     [29302] = {
@@ -11458,15 +11505,14 @@ BestBisListData = {
     },
     [29323] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Close to BiS - Avoidance",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [29325] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -11534,13 +11580,13 @@ BestBisListData = {
             ["pre"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
     },
     [29336] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Close to BiS - Stamina",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -11606,7 +11652,7 @@ BestBisListData = {
     },
     [29348] = {
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
@@ -11617,12 +11663,12 @@ BestBisListData = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -11664,12 +11710,12 @@ BestBisListData = {
     },
     [29351] = {
         ["beastmastery_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -11783,7 +11829,7 @@ BestBisListData = {
     },
     [29359] = {
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -11880,7 +11926,7 @@ BestBisListData = {
         },
         ["demonology_warlock"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Absolute BiS",
         },
         ["destruction_warlock"] = {
@@ -11896,7 +11942,7 @@ BestBisListData = {
         ["fire_mage"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["frost_mage"] = {
             ["pre"] = "Absolute BiS",
@@ -11906,8 +11952,7 @@ BestBisListData = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["p2"] = "Sub-BiS (Optional)",        },
         ["shadow_priest"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
@@ -11926,7 +11971,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -12011,7 +12056,7 @@ BestBisListData = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -12021,14 +12066,14 @@ BestBisListData = {
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS Further Options",
         },
     },
     [29381] = {
         ["arms_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
-            ["p1"] = "Sub-BiS if you need Hit",
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
+            ["p2"] = "BiS if you need Hit",
         },
         ["beastmastery_hunter"] = {
             ["pre"] = "Absolute BiS",
@@ -12040,29 +12085,35 @@ BestBisListData = {
             ["p1"] = "Absolute BiS",
             ["p2"] = "Absolute BiS",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["retribution_paladin"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
-            ["p1"] = "Sub-BiS if you need Hit",
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
+            ["p2"] = "BiS if you need Hit",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "BiS if you need Hit",
         },
         ["survival_hunter"] = {
@@ -12099,25 +12150,28 @@ BestBisListData = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [29383] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
-        ["beastmastery_hunter"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
+        },
+        ["beastmastery_hunter"] = {
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
         },
         ["combat_rogue"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -12125,56 +12179,58 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
         },
         ["feral_druid"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Third Place",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [29384] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Sub-BiS Mitigation Alternative",
+            ["pre"] = "Absolute BiS - Mitigation",
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [29385] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["p1"] = "Sub-BiS (Optional)",
@@ -12191,20 +12247,18 @@ BestBisListData = {
         },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS - Mitigation",
         },
     },
     [29387] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["protection_warrior"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p2"] = "Third Place",        },
     },
     [29388] = {
         ["protection_paladin"] = {
@@ -12222,15 +12276,15 @@ BestBisListData = {
     },
     [29390] = {
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
     },
     [29458] = {
         ["holy_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
         },
         ["restoration_shaman"] = {
             ["p1"] = "Close to BiS",
@@ -12239,17 +12293,17 @@ BestBisListData = {
     },
     [29463] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
     },
     [29502] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
     },
     [29503] = {
@@ -12317,8 +12371,8 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["retribution_paladin"] = {
@@ -12335,8 +12389,8 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
@@ -12353,8 +12407,8 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["retribution_paladin"] = {
@@ -12479,15 +12533,15 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -12496,12 +12550,15 @@ BestBisListData = {
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -12512,10 +12569,10 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -12527,7 +12584,7 @@ BestBisListData = {
     },
     [29527] = {
         ["beastmastery_hunter"] = {
-            ["pre"] = "Close to BiS",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -12535,7 +12592,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -12547,8 +12604,8 @@ BestBisListData = {
     },
     [29774] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -12567,8 +12624,8 @@ BestBisListData = {
     },
     [29777] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -12598,7 +12655,7 @@ BestBisListData = {
     [29783] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -12646,7 +12703,7 @@ BestBisListData = {
     },
     [29815] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
     },
     [29918] = {
@@ -12699,10 +12756,10 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["arcane_mage"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["demonology_warlock"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["destruction_warlock"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -12719,7 +12776,7 @@ BestBisListData = {
     },
     [29923] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["holy_priest"] = {
             ["p2"] = "Absolute BiS",
@@ -12733,24 +12790,27 @@ BestBisListData = {
     },
     [29924] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional) - Main / Off Hand",
         },
         ["enhancement_shaman"] = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p2"] = "Close to BiS (Orc)",
+            ["p2"] = "Close to BiS - Orc",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [29925] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS - Mitigation",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS - Mitigation",
         },
     },
     [29947] = {
@@ -12761,10 +12821,10 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Close to BiS",
@@ -12773,15 +12833,18 @@ BestBisListData = {
             ["p2"] = "Close to BiS (Best Threat)",
         },
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [29948] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS - Off Hand",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
     },
     [29949] = {
@@ -12811,16 +12874,19 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
         ["retribution_paladin"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
     },
     [29962] = {
@@ -12835,7 +12901,7 @@ BestBisListData = {
     },
     [29966] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["combat_rogue"] = {
             ["p2"] = "Absolute BiS",
@@ -12849,8 +12915,11 @@ BestBisListData = {
         ["feral_tank_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
+        },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [29972] = {
@@ -12954,6 +13023,9 @@ BestBisListData = {
         ["beastmastery_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["survival_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -13032,7 +13104,7 @@ BestBisListData = {
     },
     [29989] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["holy_priest"] = {
             ["p2"] = "Absolute BiS",
@@ -13051,7 +13123,7 @@ BestBisListData = {
     },
     [29991] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["restoration_shaman"] = {
             ["p2"] = "Absolute BiS",
@@ -13083,7 +13155,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Close to BiS - Threat",
         },
         ["shadow_priest"] = {
             ["p2"] = "Close to BiS",
@@ -13094,13 +13166,16 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [29994] = {
@@ -13108,22 +13183,25 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["combat_rogue"] = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
         ["protection_warrior"] = {
             ["p2"] = "Absolute BiS",
@@ -13132,7 +13210,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [29995] = {
@@ -13140,18 +13218,21 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["combat_rogue"] = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
+            ["p2"] = "Absolute BiS",
+        },
+        ["marksmanship_hunter"] = {
             ["p2"] = "Absolute BiS",
         },
         ["retribution_paladin"] = {
@@ -13174,13 +13255,13 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "BiS #2 - Both 6% and 9% Hit Gear",
         },
         ["combat_rogue"] = {
             ["p2"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_druid"] = {
             ["p2"] = "Close to BiS",
@@ -13191,16 +13272,19 @@ BestBisListData = {
         ["fury_warrior"] = {
             ["p2"] = "Absolute BiS",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "BiS #2 - Both 6% and 9% Hit Gear",
+        },
         ["retribution_paladin"] = {
-            ["p2"] = "BiS if you need Hit",
+            ["p2"] = "Third Place",
         },
     },
     [29998] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS - Survivability",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS - Mitigation",
         },
     },
     [30003] = {
@@ -13221,7 +13305,7 @@ BestBisListData = {
     },
     [30007] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS - Defensive",
         },
     },
     [30008] = {
@@ -13235,7 +13319,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Close to BiS - Threat",
         },
     },
     [30010] = {
@@ -13251,7 +13335,7 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["arcane_mage"] = {
-            ["p2"] = "Sub-BiS Further Options",
+            ["p2"] = "Absolute BiS",
         },
         ["balance_druid"] = {
             ["p2"] = "Absolute BiS",
@@ -13280,30 +13364,36 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["combat_rogue"] = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
+        },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
+        },
+        ["retribution_paladin"] = {
+            ["p2"] = "Close to BiS",
         },
     },
     [30018] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["holy_priest"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -13328,7 +13418,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30022] = {
@@ -13336,13 +13426,13 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Absolute BiS",
         },
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30024] = {
@@ -13373,17 +13463,20 @@ BestBisListData = {
     },
     [30025] = {
         ["arms_warrior"] = {
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["p2"] = "BiS if you need Hit",
         },
         ["fury_warrior"] = {
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["p2"] = "BiS if you need Hit",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["p2"] = "BiS if you need Hit",
         },
     },
     [30026] = {
         ["beastmastery_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
@@ -13392,13 +13485,12 @@ BestBisListData = {
     },
     [30027] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30028] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
-        },
+            ["p2"] = "Third Place",        },
     },
     [30029] = {
         ["restoration_druid"] = {
@@ -13407,7 +13499,7 @@ BestBisListData = {
     },
     [30030] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["restoration_shaman"] = {
             ["p2"] = "Absolute BiS",
@@ -13415,7 +13507,7 @@ BestBisListData = {
     },
     [30031] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30032] = {
@@ -13426,12 +13518,12 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["p2"] = "BiS if you need Hit",
         },
     },
     [30033] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS - Blacksmith",
         },
     },
     [30034] = {
@@ -13489,7 +13581,7 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["arcane_mage"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Absolute BiS",
         },
         ["balance_druid"] = {
             ["p2"] = "Absolute BiS",
@@ -13518,7 +13610,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -13526,7 +13618,7 @@ BestBisListData = {
     },
     [30040] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["combat_rogue"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -13537,8 +13629,11 @@ BestBisListData = {
         ["feral_tank_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
+        },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30041] = {
@@ -13546,7 +13641,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30042] = {
@@ -13566,13 +13661,16 @@ BestBisListData = {
         ["beastmastery_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["survival_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30047] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["restoration_shaman"] = {
             ["p2"] = "Absolute BiS",
@@ -13620,16 +13718,16 @@ BestBisListData = {
     },
     [30052] = {
         ["arms_warrior"] = {
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS - 9% Hit Gear (Best if no Boomkin in the Raid)",
         },
         ["combat_rogue"] = {
             ["p2"] = "Absolute BiS",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["feral_druid"] = {
             ["p2"] = "Absolute BiS",
@@ -13638,10 +13736,16 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Close to BiS - 9% Hit Gear (Best if no Boomkin in the Raid)",
+        },
+        ["retribution_paladin"] = {
+            ["p2"] = "Sub-BiS Further Options",
         },
     },
     [30053] = {
@@ -13659,6 +13763,9 @@ BestBisListData = {
         ["fury_warrior"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
     },
     [30055] = {
         ["arms_warrior"] = {
@@ -13671,19 +13778,22 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -13728,7 +13838,7 @@ BestBisListData = {
     },
     [30058] = {
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [30059] = {
@@ -13739,6 +13849,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -13752,10 +13865,13 @@ BestBisListData = {
         ["feral_tank_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
     },
     [30061] = {
         ["arms_warrior"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -13764,13 +13880,12 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS if you need Hit",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
         ["retribution_paladin"] = {
-            ["p2"] = "BiS if you need Hit",
+            ["p2"] = "Close to BiS",
         },
     },
     [30062] = {
@@ -13783,7 +13898,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["arcane_mage"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["balance_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -13885,7 +14000,7 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30082] = {
@@ -13901,14 +14016,15 @@ BestBisListData = {
     },
     [30083] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
-        },
+            ["p2"] = "Close to BiS",        },
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Mitigation Alternative",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [30085] = {
         ["beastmastery_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
@@ -13928,9 +14044,12 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["fury_warrior"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -13965,15 +14084,15 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [30096] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS - Survivability",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS - Mitigation",
         },
     },
     [30097] = {
@@ -14001,7 +14120,7 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30099] = {
@@ -14028,19 +14147,19 @@ BestBisListData = {
     },
     [30101] = {
         ["arms_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["combat_rogue"] = {
             ["p2"] = "Absolute BiS",
         },
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -14054,7 +14173,7 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
         ["retribution_paladin"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -14073,7 +14192,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["enhancement_shaman"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -14081,11 +14200,14 @@ BestBisListData = {
         ["fury_warrior"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
+        },
         ["retribution_paladin"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30105] = {
@@ -14093,13 +14215,16 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Absolute BiS",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
+        },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30106] = {
@@ -14113,22 +14238,25 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["feral_druid"] = {
             ["p2"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Absolute BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["p2"] = "Close to BiS (Best Threat)",
         },
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -14165,7 +14293,7 @@ BestBisListData = {
     },
     [30108] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["holy_priest"] = {
             ["p2"] = "Absolute BiS",
@@ -14191,10 +14319,10 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["elemental_shaman"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["fire_mage"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["frost_mage"] = {
             ["p2"] = "Close to BiS",
@@ -14205,7 +14333,7 @@ BestBisListData = {
     },
     [30110] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["holy_priest"] = {
             ["p2"] = "Absolute BiS",
@@ -14224,7 +14352,7 @@ BestBisListData = {
     },
     [30112] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30113] = {
@@ -14276,7 +14404,7 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [30121] = {
@@ -14292,23 +14420,23 @@ BestBisListData = {
     },
     [30122] = {
         ["arms_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Absolute BiS",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [30123] = {
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30124] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS - Threat",
         },
     },
     [30125] = {
@@ -14318,17 +14446,17 @@ BestBisListData = {
     },
     [30126] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS - Threat",
         },
     },
     [30127] = {
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30129] = {
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30131] = {
@@ -14348,7 +14476,7 @@ BestBisListData = {
     },
     [30134] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30135] = {
@@ -14358,7 +14486,7 @@ BestBisListData = {
     },
     [30136] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30137] = {
@@ -14368,44 +14496,59 @@ BestBisListData = {
     },
     [30138] = {
         ["holy_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30139] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30140] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
     },
     [30141] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30142] = {
         ["beastmastery_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
-        ["survival_hunter"] = {
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["survival_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
     },
     [30143] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30144] = {
@@ -14535,22 +14678,22 @@ BestBisListData = {
     },
     [30185] = {
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30189] = {
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30190] = {
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30192] = {
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30196] = {
@@ -14566,7 +14709,7 @@ BestBisListData = {
     },
     [30205] = {
         ["arcane_mage"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["fire_mage"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -14690,18 +14833,18 @@ BestBisListData = {
     },
     [30222] = {
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30223] = {
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30225] = {
@@ -14714,28 +14857,28 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
     },
     [30228] = {
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30229] = {
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30230] = {
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30231] = {
@@ -14779,8 +14922,8 @@ BestBisListData = {
     },
     [30257] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -14795,21 +14938,21 @@ BestBisListData = {
             ["pre"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-        },
-        ["retribution_paladin"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
+        },
+        ["retribution_paladin"] = {
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Close to BiS",
         },
     },
     [30258] = {
         ["arms_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
     },
     [30277] = {
@@ -14826,16 +14969,16 @@ BestBisListData = {
     [30279] = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
         },
         ["combat_rogue"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [30291] = {
@@ -14858,25 +15001,24 @@ BestBisListData = {
     },
     [30300] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
     },
     [30330] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30334] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -14898,7 +15040,7 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -14907,8 +15049,8 @@ BestBisListData = {
             ["pre"] = "Close to BiS (Best Threat)",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -14925,7 +15067,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS Further Options",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
@@ -14957,9 +15099,9 @@ BestBisListData = {
     },
     [30371] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30372] = {
@@ -14997,8 +15139,8 @@ BestBisListData = {
     },
     [30378] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["pre"] = "Close to BiS - Block",
+            ["p1"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Scryers only)",
@@ -15006,14 +15148,14 @@ BestBisListData = {
     },
     [30381] = {
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30386] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
@@ -15028,9 +15170,9 @@ BestBisListData = {
     },
     [30400] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30401] = {
@@ -15053,23 +15195,21 @@ BestBisListData = {
     },
     [30446] = {
         ["arms_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Sub-BiS Further Options - Pre Pull Shout Buff",
         },
         ["fury_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Sub-BiS Further Options - Pre Pull Shout Buff",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Close to BiS",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [30447] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [30449] = {
         ["demonology_warlock"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS - Pet",
         },
     },
     [30450] = {
@@ -15079,17 +15219,17 @@ BestBisListData = {
     },
     [30486] = {
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [30488] = {
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [30490] = {
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [30514] = {
@@ -15177,7 +15317,7 @@ BestBisListData = {
             ["pre"] = "Close to BiS",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS Threat Alternative",
+            ["pre"] = "Sub-BiS (Optional) - Threat Alternative",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -15198,7 +15338,7 @@ BestBisListData = {
             ["pre"] = "Absolute BiS",
         },
         ["beastmastery_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -15281,8 +15421,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Mitigation Alternative",
-        },
+            ["p2"] = "Close to BiS",        },
     },
     [30626] = {
         ["affliction_warlock"] = {
@@ -15292,7 +15431,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["balance_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["demonology_warlock"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -15307,12 +15446,12 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["frost_mage"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
     },
     [30627] = {
         ["arms_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["beastmastery_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -15321,7 +15460,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["feral_druid"] = {
             ["p2"] = "Absolute BiS",
@@ -15330,7 +15469,10 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -15341,18 +15483,17 @@ BestBisListData = {
     },
     [30629] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [30641] = {
         ["protection_paladin"] = {
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Close to BiS - Defensive",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30642] = {
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30644] = {
@@ -15373,7 +15514,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["fury_warrior"] = {
@@ -15381,10 +15522,10 @@ BestBisListData = {
         },
         ["protection_warrior"] = {
             ["p1"] = "Close to BiS (Best Threat)",
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -15430,7 +15571,7 @@ BestBisListData = {
     },
     [30674] = {
         ["feral_tank_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -15451,14 +15592,14 @@ BestBisListData = {
     },
     [30676] = {
         ["feral_druid"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30677] = {
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [30680] = {
@@ -15487,8 +15628,8 @@ BestBisListData = {
     },
     [30682] = {
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [30684] = {
@@ -15518,8 +15659,8 @@ BestBisListData = {
     },
     [30686] = {
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [30705] = {
@@ -15558,7 +15699,7 @@ BestBisListData = {
     },
     [30722] = {
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS - Blacksmith",
         },
     },
     [30723] = {
@@ -15575,7 +15716,7 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["demonology_warlock"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["destruction_warlock"] = {
@@ -15614,11 +15755,14 @@ BestBisListData = {
         ["fury_warrior"] = {
             ["p1"] = "Absolute BiS",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["protection_warrior"] = {
             ["p1"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -15711,7 +15855,7 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
         },
     },
     [30730] = {
@@ -15724,7 +15868,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["enhancement_shaman"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
@@ -15736,13 +15880,13 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
     [30731] = {
         ["protection_warrior"] = {
-            ["p1"] = "Sub-BiS Mitigation Alternative",
+            ["p1"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [30732] = {
@@ -15759,14 +15903,14 @@ BestBisListData = {
     },
     [30733] = {
         ["arms_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Close to BiS",
         },
         ["combat_rogue"] = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["fury_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [30734] = {
@@ -15783,7 +15927,7 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["demonology_warlock"] = {
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Close to BiS",
         },
         ["destruction_warlock"] = {
@@ -15847,7 +15991,7 @@ BestBisListData = {
         },
         ["holy_priest"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["restoration_druid"] = {
             ["p1"] = "Close to BiS",
@@ -15878,7 +16022,7 @@ BestBisListData = {
     [30738] = {
         ["arms_warrior"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["combat_rogue"] = {
             ["p1"] = "Close to BiS",
@@ -15894,11 +16038,11 @@ BestBisListData = {
         },
         ["fury_warrior"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",
         },
     },
     [30739] = {
@@ -15914,36 +16058,39 @@ BestBisListData = {
             ["p1"] = "Absolute BiS",
             ["p2"] = "Close to BiS",
         },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
         ["retribution_paladin"] = {
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30740] = {
         ["arms_warrior"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["p1"] = "Sub-BiS (Optional)",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [30741] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS - Mitigation",
         },
     },
     [30787] = {
@@ -15952,7 +16099,7 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["arcane_mage"] = {
-            ["pre"] = "BiS Against Demons",
+            ["pre"] = "Absolute BiS (Against Demons)",
         },
         ["demonology_warlock"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -15963,11 +16110,11 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
         ["fire_mage"] = {
-            ["pre"] = "BiS Against Demons",
+            ["pre"] = "Absolute BiS (Against Demons)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["frost_mage"] = {
-            ["pre"] = "BiS Against Demons",
+            ["pre"] = "Absolute BiS (Against Demons)",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
@@ -15983,9 +16130,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["shadow_priest"] = {
             ["pre"] = "Absolute BiS",
@@ -15994,48 +16141,48 @@ BestBisListData = {
     },
     [30834] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
-        },
-        ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
-        },
-        ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
             ["p1"] = "Absolute BiS",
+            ["p2"] = "Third Place",
+        },
+        ["feral_tank_druid"] = {
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Third Place",
+        },
+        ["fury_warrior"] = {
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Third Place",
         },
         ["protection_warrior"] = {
             ["pre"] = "Close to BiS (Best Threat)",
             ["p1"] = "Close to BiS (Best Threat)",
-            ["p2"] = "Close to BiS (Best Threat)",
-        },
+            ["p2"] = "Absolute BiS",        },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS",
         },
     },
     [30841] = {
         ["holy_paladin"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["holy_priest"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -16044,7 +16191,7 @@ BestBisListData = {
         ["restoration_druid"] = {
             ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Third Place",
         },
         ["restoration_shaman"] = {
             ["pre"] = "Close to BiS",
@@ -16070,18 +16217,21 @@ BestBisListData = {
     },
     [30860] = {
         ["beastmastery_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS Further Options",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
             ["pre"] = "Sub-BiS Further Options",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -16203,17 +16353,17 @@ BestBisListData = {
     },
     [30942] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
     },
     [30943] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
     },
     [30944] = {
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
         },
     },
@@ -16240,6 +16390,9 @@ BestBisListData = {
         },
         ["combat_rogue"] = {
             ["pre"] = "Sub-BiS Further Options",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -16286,12 +16439,12 @@ BestBisListData = {
     },
     [31077] = {
         ["beastmastery_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS Further Options",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["enhancement_shaman"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -16299,6 +16452,9 @@ BestBisListData = {
         },
         ["feral_druid"] = {
             ["pre"] = "Sub-BiS Further Options",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -16308,8 +16464,8 @@ BestBisListData = {
     },
     [31078] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -16350,7 +16506,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Sub-BiS if you need Hit",
+            ["pre"] = "BiS if you need Hit",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -16404,8 +16560,7 @@ BestBisListData = {
         },
         ["protection_warrior"] = {
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [31139] = {
         ["enhancement_shaman"] = {
@@ -16558,7 +16713,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
@@ -16580,8 +16735,8 @@ BestBisListData = {
     },
     [31277] = {
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -16746,10 +16901,9 @@ BestBisListData = {
     },
     [31319] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["pre"] = "Close to BiS - Stamina",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [31320] = {
         ["arms_warrior"] = {
@@ -16778,7 +16932,7 @@ BestBisListData = {
     },
     [31326] = {
         ["survival_hunter"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
         },
     },
     [31329] = {
@@ -16811,7 +16965,7 @@ BestBisListData = {
     },
     [31331] = {
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
     },
     [31332] = {
@@ -16834,7 +16988,7 @@ BestBisListData = {
     },
     [31334] = {
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
@@ -17057,9 +17211,9 @@ BestBisListData = {
     },
     [31460] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -17152,24 +17306,24 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
             ["p2"] = "Sub-BiS Further Options",
         },
     },
@@ -17250,7 +17404,7 @@ BestBisListData = {
     [31695] = {
         ["arms_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
         ["enhancement_shaman"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -17259,13 +17413,13 @@ BestBisListData = {
         },
         ["fury_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS if you need Hit",
+            ["p1"] = "BiS if you need Hit",
         },
     },
     [31696] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
         },
     },
     [31699] = {
@@ -17301,6 +17455,11 @@ BestBisListData = {
             ["p1"] = "Sub-BiS Further Options",
         },
     },
+    [31856] = {
+        ["retribution_paladin"] = {
+            ["p2"] = "Sub-BiS Further Options",
+        },
+    },
     [31919] = {
         ["feral_tank_druid"] = {
             ["pre"] = "Sub-BiS Further Options",
@@ -17308,32 +17467,36 @@ BestBisListData = {
     },
     [31920] = {
         ["arms_warrior"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Sub-BiS if you need Hit",
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "BiS if you need Hit",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["beastmastery_hunter"] = {
             ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS Further Options",
         },
         ["combat_rogue"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
             ["p1"] = "Sub-BiS (Optional)",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["feral_druid"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["fury_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS Further Options",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
             ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",
         },
         ["survival_hunter"] = {
             ["p1"] = "Sub-BiS Further Options",
@@ -17361,9 +17524,8 @@ BestBisListData = {
     [31924] = {
         ["protection_paladin"] = {
             ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
-        },
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [31949] = {
         ["beastmastery_hunter"] = {
@@ -17415,6 +17577,9 @@ BestBisListData = {
     },
     [31986] = {
         ["beastmastery_hunter"] = {
+            ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
     },
@@ -17443,7 +17608,7 @@ BestBisListData = {
             ["p2"] = "Absolute BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
     },
     [32027] = {
@@ -17481,10 +17646,10 @@ BestBisListData = {
     },
     [32045] = {
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Close to BiS - Defensive",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [32046] = {
@@ -17553,17 +17718,17 @@ BestBisListData = {
     },
     [32072] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
     },
     [32073] = {
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
@@ -17591,9 +17756,9 @@ BestBisListData = {
     },
     [32082] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -17602,8 +17767,8 @@ BestBisListData = {
     [32083] = {
         ["protection_paladin"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Close to BiS - Avoidance",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
@@ -17628,7 +17793,7 @@ BestBisListData = {
     [32087] = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["beastmastery_hunter"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -17637,8 +17802,8 @@ BestBisListData = {
             ["pre"] = "Sub-BiS (Optional)",
         },
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -17647,11 +17812,11 @@ BestBisListData = {
         },
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["pre"] = "Sub-BiS (Optional)",
-            ["p1"] = "Sub-BiS (Optional)",
+            ["pre"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
     },
     [32088] = {
@@ -17694,10 +17859,10 @@ BestBisListData = {
     },
     [32267] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS - Avoidance + Stamina",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS - Mitigation",
         },
     },
     [32387] = {
@@ -17706,10 +17871,10 @@ BestBisListData = {
             ["p2"] = "Close to BiS",
         },
         ["feral_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["restoration_druid"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -17757,13 +17922,13 @@ BestBisListData = {
     },
     [32461] = {
         ["arms_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [32472] = {
@@ -17773,10 +17938,10 @@ BestBisListData = {
     },
     [32473] = {
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS - Mitigation",
         },
     },
     [32474] = {
@@ -17784,6 +17949,9 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["enhancement_shaman"] = {
+            ["p2"] = "Sub-BiS (Optional)",
+        },
+        ["marksmanship_hunter"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["survival_hunter"] = {
@@ -17853,10 +18021,10 @@ BestBisListData = {
     },
     [32515] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS - Survivability",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Mitigation Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Mitigation Alternative",
         },
     },
     [32516] = {
@@ -17869,10 +18037,9 @@ BestBisListData = {
     },
     [32534] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Close to BiS",
+            ["p1"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",        },
     },
     [32535] = {
         ["restoration_druid"] = {
@@ -17889,8 +18056,8 @@ BestBisListData = {
     },
     [32652] = {
         ["protection_paladin"] = {
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [32653] = {
@@ -17913,12 +18080,12 @@ BestBisListData = {
     },
     [32658] = {
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [32660] = {
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [32664] = {
@@ -17928,7 +18095,7 @@ BestBisListData = {
     },
     [32756] = {
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Absolute BiS - Mitigation",
         },
     },
     [32772] = {
@@ -17948,8 +18115,7 @@ BestBisListData = {
             ["pre"] = "Sub-BiS Further Options",
         },
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
-        },
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [32779] = {
         ["elemental_shaman"] = {
@@ -17963,7 +18129,7 @@ BestBisListData = {
     },
     [32790] = {
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
     },
     [32793] = {
@@ -17989,12 +18155,12 @@ BestBisListData = {
     },
     [32805] = {
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS Threat Alternative",
+            ["p2"] = "Sub-BiS (Optional) - Threat Alternative",
         },
     },
     [32810] = {
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [32814] = {
@@ -18032,16 +18198,15 @@ BestBisListData = {
     },
     [32864] = {
         ["protection_paladin"] = {
-            ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
-            ["p2"] = "Absolute BiS",
-        },
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS Further Options",        },
     },
     [32866] = {
         ["protection_paladin"] = {
-            ["pre"] = "Close to BiS",
-            ["p1"] = "Close to BiS",
-            ["p2"] = "Close to BiS",
+            ["pre"] = "Sub-BiS (Optional)",
+            ["p1"] = "Sub-BiS (Optional)",
+            ["p2"] = "Sub-BiS (Optional)",
         },
     },
     [32871] = {
@@ -18080,7 +18245,7 @@ BestBisListData = {
     },
     [32944] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS - Main Hand",
         },
         ["combat_rogue"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -18090,6 +18255,9 @@ BestBisListData = {
         },
         ["fury_warrior"] = {
             ["p2"] = "Close to BiS",
+        },
+        ["marksmanship_hunter"] = {
+            ["p2"] = "Absolute BiS",
         },
     },
     [32961] = {
@@ -18137,7 +18305,7 @@ BestBisListData = {
     },
     [33065] = {
         ["protection_paladin"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["shadow_priest"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -18148,13 +18316,13 @@ BestBisListData = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["p2"] = "Sub-BiS (Optional)",
         },
         ["protection_warrior"] = {
-            ["p2"] = "Absolute BiS",
+            ["p2"] = "Close to BiS",
         },
     },
     [33067] = {
@@ -18162,7 +18330,7 @@ BestBisListData = {
             ["p2"] = "Sub-BiS Further Options",
         },
         ["arcane_mage"] = {
-            ["p2"] = "Sub-BiS Further Options",
+            ["p2"] = "Close to BiS",
         },
         ["balance_druid"] = {
             ["p2"] = "Sub-BiS Further Options",
@@ -18184,7 +18352,7 @@ BestBisListData = {
     },
     [33122] = {
         ["enhancement_shaman"] = {
-            ["pre"] = "Sub-BiS (Optional)",
+            ["pre"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
             ["p2"] = "Sub-BiS (Optional)",
@@ -18193,11 +18361,11 @@ BestBisListData = {
     [33173] = {
         ["arms_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["fury_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p1"] = "Absolute BiS",
+            ["p1"] = "Close to BiS",
         },
         ["retribution_paladin"] = {
             ["pre"] = "Sub-BiS (Optional)",
@@ -18211,15 +18379,15 @@ BestBisListData = {
     },
     [33313] = {
         ["protection_paladin"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Close to BiS - Threat",
         },
     },
     [33803] = {
         ["beastmastery_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
         ["survival_hunter"] = {
-            ["p2"] = "Sub-BiS (Optional)",
+            ["p2"] = "Absolute BiS",
         },
     },
     [33945] = {
@@ -18241,7 +18409,7 @@ BestBisListData = {
     [34622] = {
         ["protection_warrior"] = {
             ["pre"] = "Absolute BiS",
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["p2"] = "BiS if you need Hit",
         },
     },
     [35343] = {
@@ -18263,7 +18431,7 @@ BestBisListData = {
     },
     [35407] = {
         ["protection_warrior"] = {
-            ["pre"] = "Absolute BiS",
+            ["pre"] = "Close to BiS",
         },
     },
     [35411] = {
@@ -18273,7 +18441,7 @@ BestBisListData = {
     },
     [35511] = {
         ["protection_warrior"] = {
-            ["p2"] = "Sub-BiS if you need Hit",
+            ["p2"] = "BiS if you need Hit",
         },
     },
     [35514] = {
@@ -18288,7 +18456,7 @@ BestBisListData = {
     },
     [38287] = {
         ["feral_druid"] = {
-            ["p2"] = "Close to BiS",
+            ["p2"] = "Sub-BiS (Optional)",
         },
         ["feral_tank_druid"] = {
             ["p2"] = "Sub-BiS Further Options",
