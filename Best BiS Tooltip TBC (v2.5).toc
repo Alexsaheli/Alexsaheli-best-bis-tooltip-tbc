@@ -1,4 +1,4 @@
-## Interface: 20504
+## Interface: 20506
 ## Title: |cFF3FC7EBBest BiS Tooltip TBC (v2.5)|r
 ## Notes: Highlights BiS items in The Burning Crusade.
 ## Author: Alex Kos
