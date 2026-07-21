@@ -6,6 +6,7 @@
 
 local addonName, addonTable = ...
 
+
 -- ---------------------------------------------------------------------------
 -- Слоты экипировки
 -- ---------------------------------------------------------------------------
@@ -28,15 +29,17 @@ local function IsEquippable(itemID)
 end
 
 -- Возвращает суффиксы оружия для строки тултипа:
--- nil если не двуручка, "2-Hander" если двуручка, "2-Hander - Sword Specced" если двуручный меч
-local function GetWeaponSuffixes(itemID)
+-- nil если не двуручка или не воин, "Two-Hander" если двуручка, "Two-Hander - Sword Specced" если двуручный меч
+-- Суффикс показывается только для воинов — для остальных классов двуручник не нишевая опция
+local function GetWeaponSuffixes(itemID, specKey)
     if not itemID then return nil end
+    if not specKey or not specKey:find("warrior") then return nil end
     local _, _, _, _, _, _, subClass, _, equipLoc = GetItemInfo(itemID)
     if equipLoc ~= "INVTYPE_2HWEAPON" then return nil end
     if subClass == "Swords" then
-        return "2-Hander - Sword Specced"
+        return "Two-Hander - Sword Specced"
     end
-    return "2-Hander"
+    return "Two-Hander"
 end
 
 -- ---------------------------------------------------------------------------
@@ -48,9 +51,9 @@ local ClassSpecs = {
     ["WARLOCK"] = { "affliction_warlock", "demonology_warlock", "destruction_warlock" },
     ["DRUID"]   = { "balance_druid", "feral_druid", "feral_tank_druid", "restoration_druid" },
     ["SHAMAN"]  = { "elemental_shaman", "enhancement_shaman", "restoration_shaman" },
-    ["HUNTER"]  = { "beastmastery_hunter", "survival_hunter" },
+    ["HUNTER"]  = { "beastmastery_hunter", "survival_hunter", "marksmanship_hunter" },
     ["ROGUE"]   = { "combat_rogue" },
-    ["WARRIOR"] = { "arms_warrior", "fury_warrior", "protection_warrior" },
+    ["WARRIOR"] = { "fury_warrior", "arms_warrior", "protection_warrior" },
     ["PALADIN"] = { "holy_paladin", "protection_paladin", "retribution_paladin" },
 }
 
@@ -71,8 +74,9 @@ local SpecNames = {
     ["elemental_shaman"]     = "Elemental",
     ["enhancement_shaman"]   = "Enhancement",
     ["restoration_shaman"]   = "Restoration",
-    ["beastmastery_hunter"]  = "Beast Mastery",
-    ["survival_hunter"]      = "Survival",
+    ["beastmastery_hunter"]   = "Beast Mastery",
+    ["survival_hunter"]       = "Survival",
+    ["marksmanship_hunter"]   = "Marksmanship",
     ["combat_rogue"]         = "Combat",
     ["arms_warrior"]         = "Arms",
     ["fury_warrior"]         = "Fury",
@@ -85,7 +89,7 @@ local SpecNames = {
 -- Цвета спеков при выводе через Shift
 local SpecColors = {
     -- Маг
-    ["arcane_mage"]          = "|cFFC79EE6",  -- лавандовый
+    ["arcane_mage"]          = "|cFFD680FF",  -- как Close to BiS
     ["fire_mage"]            = "|cFFFA5523",  -- огненно-красный
     ["frost_mage"]           = "|cFF3FC7EB",  -- ледяной голубой
     -- Прист
@@ -105,17 +109,18 @@ local SpecColors = {
     ["enhancement_shaman"]   = "|cFFFFF0AA",  -- как холи прист, тёплый жёлто-белый
     ["restoration_shaman"]   = "|cFF4DCCAA",  -- зелёный с оттенком синего
     -- Хантер
-    ["beastmastery_hunter"]  = "|cFFFFD966",  -- жёлтый
-    ["survival_hunter"]      = "|cFF7ACC6B",  -- зелёный
+    ["beastmastery_hunter"]   = "|cFFFFD966",  -- жёлтый
+    ["survival_hunter"]       = "|cFF80FF80",  -- как Not on BiS Lists
+    ["marksmanship_hunter"]   = "|cFF7ABFFF",  -- стальной голубой (как Protection Paladin)
     -- Разбойник
     ["combat_rogue"]         = "|cFFFFF569",  -- классовый жёлтый
     -- Воин
-    ["arms_warrior"]         = "|cFFCAE5FF",  -- молочно-голубой
-    ["fury_warrior"]         = "|cFFE05050",  -- приятный красный, не ядовитый
+    ["arms_warrior"]         = "|cFF78AAFF",  -- небесно-голубой светлый
+    ["fury_warrior"]         = "|cFFFF6655",  -- кровавый красный, читаемый
     ["protection_warrior"]   = "|cFFC79C6E",  -- классовый светло-коричневый
     -- Паладин
     ["holy_paladin"]         = "|cFFF58CBA",  -- классовый розовый
-    ["protection_paladin"]   = "|cFF6A9FD1",  -- приятный синий (как arms воин)
+    ["protection_paladin"]   = "|cFF7ABFFF",  -- стальной голубой (доспех)
     ["retribution_paladin"]  = "|cFFB388FF",  -- лавандово-фиолетовый
 }
 
@@ -123,9 +128,9 @@ local SpecColors = {
 -- Определение текущего спека
 -- ---------------------------------------------------------------------------
 local function GetCurrentPlayerSpec(playerClass)
-    local _, _, p1 = GetTalentTabInfo(1)
-    local _, _, p2 = GetTalentTabInfo(2)
-    local _, _, p3 = GetTalentTabInfo(3)
+    local _, _, _, _, p1 = GetTalentTabInfo(1)
+    local _, _, _, _, p2 = GetTalentTabInfo(2)
+    local _, _, _, _, p3 = GetTalentTabInfo(3)
     p1, p2, p3 = p1 or 0, p2 or 0, p3 or 0
 
     if playerClass == "MAGE" then
@@ -154,6 +159,7 @@ local function GetCurrentPlayerSpec(playerClass)
 
     elseif playerClass == "HUNTER" then
         if p1 >= p2 and p1 >= p3 then return "beastmastery_hunter"
+        elseif p2 >= p1 and p2 >= p3 then return "marksmanship_hunter"
         else return "survival_hunter" end
 
     elseif playerClass == "ROGUE" then
@@ -173,6 +179,7 @@ local function GetCurrentPlayerSpec(playerClass)
     return nil
 end
 
+
 -- ---------------------------------------------------------------------------
 -- Цвета статусов
 -- ---------------------------------------------------------------------------
@@ -191,8 +198,8 @@ local function SplitDestroSuffix(status)
     return status, nil
 end
 
-local function GetColorAndText(status)
-    local rO = "|cFFFF8000"   -- Absolute BiS
+local function GetColorAndText(status, equipLoc)
+    local rO = "|cFFFF8000"   -- Absolute BiS / BiS #2
     local rP = "|cFFD680FF"   -- Close to BiS / Hit variants
     local rB = "|cFF5C9DFF"   -- Sub-BiS (Optional)
     local rM = "|cFF00FF96"   -- Sub-BiS Further Options / Alternative
@@ -202,7 +209,19 @@ local function GetColorAndText(status)
     local base = status:gsub(" %- Fire Destro$", ""):gsub(" %- Shadow Destro$", "")
     local s = base:lower()
 
-    if s:find("absolute bis") or s:find("jewelcrafting") or s:find("against demons") then
+    -- Для колец и тринкетов: переопределяем иерархию статусов
+    local isRingOrTrinket = (equipLoc == "INVTYPE_FINGER" or equipLoc == "INVTYPE_TRINKET")
+    if isRingOrTrinket then
+        if s == "close to bis" then
+            return rP, "BiS #2"
+        elseif s == "third place" then
+            return rP, "Close to BiS"
+        end
+    end
+
+    if s:find("^bis #2") then
+        return rP, status
+    elseif s:find("absolute bis") or s:find("jewelcrafting") or s:find("against demons") or s:find("second bis") then
         return rO, status
     elseif s:find("close to bis") then
         return rP, status
@@ -221,23 +240,21 @@ end
 
 -- Строит строку тултипа с фазой и опциональным Destro-суффиксом нужного цвета
 -- Формат: "Base - Phase - Suffix - WeaponSuffix - Destro"
-local function FormatStatusLine(status, phaseName, indent, itemID)
+local function FormatStatusLine(status, phaseName, indent, itemID, specKey)
     indent = indent or ""
     local base, destroTag = SplitDestroSuffix(status)
-    local c, _ = GetColorAndText(status)
+    local _, _, _, _, _, _, _, _, equipLoc = GetItemInfo(itemID)
+    local c, overrideLabel = GetColorAndText(status, equipLoc)
 
     -- Вычленяем суффикс в скобках: "Close to BiS (Best Threat)" -> base="Close to BiS", suffix="Best Threat"
     -- Или текстовый суффикс через пробел: "Sub-BiS Threat Alternative" -> base="Sub-BiS", suffix="Threat Alternative"
     local coreStatus, inlineSuffix = base, nil
 
-    -- Сначала проверяем скобки: "(Best Threat)", "(Fast Alternative)" и т.п.
+    -- Скобки остаются частью coreStatus — фаза добавляется после них
     local parenSuffix = base:match("%((.-)%)$")
-    if parenSuffix then
-        coreStatus = base:match("^(.-)%s*%(.+%)$")
-        inlineSuffix = parenSuffix
-    else
+    if not parenSuffix then
         -- Шаг 1: сначала снимаем тире-суффиксы (warrior weapon suffixes и т.п.)
-        -- Может быть несколько: "Absolute BiS - 2-Hander - Sword Specced"
+        -- Может быть несколько: "Absolute BiS - Two-Hander - Sword Specced"
         local dashSuffixes = {
             "Main Hand", "Off Hand",
             "Orc Off-Hand", "Human Off-Hand",
@@ -282,13 +299,19 @@ local function FormatStatusLine(status, phaseName, indent, itemID)
         end
     end
 
+    -- Если GetColorAndText вернул overrideLabel (например "BiS #2") — используем его
+    if overrideLabel and overrideLabel ~= status then
+        coreStatus = overrideLabel
+        inlineSuffix = nil
+    end
+
     local line = c .. indent .. coreStatus .. " - " .. phaseName
     if inlineSuffix then
         line = line .. " - " .. inlineSuffix
     end
 
-    -- Суффиксы двуручного оружия: "2-Hander" и "Sword Specced" — определяем по типу предмета
-    local weaponSuffix = GetWeaponSuffixes(itemID)
+    -- Суффиксы двуручного оружия: "Two-Hander" и "Sword Specced" — определяем по типу предмета
+    local weaponSuffix = GetWeaponSuffixes(itemID, specKey)
     if weaponSuffix then
         line = line .. " - " .. weaponSuffix
     end
@@ -306,7 +329,7 @@ end
 -- ---------------------------------------------------------------------------
 -- Основная логика тултипа
 -- ---------------------------------------------------------------------------
-local PHASES = { {"p2", "Phase 2"}, {"p1", "Phase 1"}, {"pre", "Pre-Raid"} }
+local PHASES = { {"p2", "Phase 2 (TK + SSC)"}, {"p1", "Phase 1"}, {"pre", "Pre-Raid"} }
 local rankNotViable = "|cFF80FF80"
 local dungeonBlue   = "|cFF00C0FF"
 
@@ -319,16 +342,10 @@ local function ProcessTooltipUpdate(tooltip)
     if not IsEquippable(itemID) then return end
 
     local _, pClass = UnitClass("player")
-    -- [[ ТЕСТ: убрать после проверки
-    pClass = "WARRIOR"
-    -- ]]
     local specsToProcess = ClassSpecs[pClass]
     if not specsToProcess then return end
 
     local currentSpec = GetCurrentPlayerSpec(pClass)
-    -- [[ ТЕСТ СПЕК: убрать после проверки
-    currentSpec = "arms_warrior"
-    -- ]]
 
     local hasItemInDatabase = false
     local itemData = {}
@@ -385,7 +402,7 @@ local function ProcessTooltipUpdate(tooltip)
                         local pKey, pName = phaseInfo[1], phaseInfo[2]
                         local status = itemData[specKey][pKey]
                         if status and status ~= "" then
-                            tooltip:AddLine(FormatStatusLine(status, pName, "  ", itemID))
+                            tooltip:AddLine(FormatStatusLine(status, pName, "  ", itemID, specKey))
                             specHasData = true
                         end
                     end
@@ -434,7 +451,7 @@ local function ProcessTooltipUpdate(tooltip)
                     local pKey, pName = phaseInfo[1], phaseInfo[2]
                     local status = itemData[displaySpec][pKey]
                     if status and status ~= "" then
-                        tooltip:AddLine(FormatStatusLine(status, pName, indent, itemID))
+                        tooltip:AddLine(FormatStatusLine(status, pName, indent, itemID, displaySpec))
                         specHasAnyPhase = true
                     end
                 end
