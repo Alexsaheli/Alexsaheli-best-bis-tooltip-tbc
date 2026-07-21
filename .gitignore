@@ -1,0 +1,10 @@
+.DS_Store
+*.zip
+__pycache__/
+*.snapshot
+*_backup.*
+Debug.py
+parser_*.py
+SPECS_PROGRESS.txt
+logo.png
+tooltip_*.png
